@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there !</h1>
 <h2>I'm Sai Chaitanya Aluru</h2>
-<div aling="center">
+<div align="center">
   <a>
   
   [![GitHub issues](https://img.shields.io/github/issues/lucky-mandator/StrapDown.js.svg)](https://GitHub.com/lucky-mandator/StrapDown.js/issues/)
