@@ -11,9 +11,11 @@
   <br>
 </div>
 <br>
-<!---
+
 <div align="center">
   <a><img src="https://badge42.herokuapp.com/api/stats/saluru" /> </a>
+  <!---
   <a><img src="https://github-readme-stats.vercel.app/api?username=lucky-mandator&show_icons=true&theme=dark" /> </a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-mandator&layout=compact" /></a>
+-->
 </div>
