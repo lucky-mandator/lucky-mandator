@@ -1,9 +1,9 @@
-<h1 align="center">Sai Chaitanya Aluru</h1>
+<h1 align="center">Welcome to My </h1>
 <div align="center">
 <br>
 
 <i></i>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-mandator)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-mandator&count_private=true)
 </div>
 
